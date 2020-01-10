@@ -1,4 +1,4 @@
-#<center>output redirection</center>
+# output redirection</center>
 
 cat >new.txt
 /*cretes a new file if new.txt is not present else overwrites new.txt*/
@@ -21,7 +21,7 @@ sdfogajofdgjfdjgodgiofdjg
 
 command >> filename // appends the output of the command to the file
 
-#input redirection
+# input redirection
 -taking input from the file 
 operator "<"
 
@@ -32,4 +32,4 @@ wc < apex.txt
 
 grep "nitish" <apex.txt
 nitish of yeahhhh   //nitish highlighted in terminal
-<center>#Discard the output</center>>
+<center># Discard the output</center>>
