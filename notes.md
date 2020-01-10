@@ -21,6 +21,10 @@ sdfogajofdgjfdjgodgiofdjg
 
 command >> filename // appends the output of the command to the file
 
+example:
+gcc 11.c 2> error.txt
+
+
 # input redirection
 -taking input from the file 
 operator "<"
