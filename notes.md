@@ -31,5 +31,12 @@ wc < apex.txt
   5  17 174// lines words characters
 
 grep "nitish" <apex.txt
-nitish of yeahhhh   //nitish highlighted in terminal
-<center># Discard the output</center>>
+nitish of yeahhhh   --nitish highlighted in terminal
+
+# Discard the output
+	pwd -a >/dev/null 2>&1
+	the errors are not displayed on the twerminal
+	pwd -a invalid command
+	/dev/null special file
+# c program execution
+editor ->source code->preprocessor->expande source code->compiler->objectfile->linker->loaders
